@@ -1,0 +1,35 @@
+body {
+    background-color: #b3c6ff; 
+    height: 30rem;
+    font-family: 'Roboto', sans-serif;
+    display: grid;
+    grid-template-columns: auto;
+    justify-content: center;
+
+}
+.container{
+    background-color: white;
+    margin: 5rem 30rem 24rem 29rem;
+    width: 16rem;
+    height: 25rem;
+    padding-top: 1rem;
+    padding-right: 1.3rem;
+    border-radius: 20px;
+    text-align: center;
+}
+.content-div{
+    margin-left: 1.2rem;
+    font-size: 0.8rem;
+}
+h2{
+    color: #000c33;
+}
+p{
+    color: #b3b3b3;
+    font-weight: lighter;
+}
+img{
+    width: 15rem;
+    margin-top: 0rem;
+    border-radius: 15px;
+}
