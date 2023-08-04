@@ -1,15 +1,19 @@
 body {
     background-color: #b3c6ff; 
-    height: 30rem;
+    min-height: 100vh;
     font-family: 'Roboto', sans-serif;
     display: grid;
     grid-template-columns: auto;
+    place-items: center;
     justify-content: center;
 
 }
 .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: white;
-    margin: 5rem 30rem 24rem 29rem;
+   /* margin: 5rem 30rem 24rem 29rem;*/
     width: 16rem;
     height: 25rem;
     padding-top: 1rem;
